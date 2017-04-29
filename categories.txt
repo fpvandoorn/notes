@@ -1,0 +1,16 @@
+Can we define the 1-category of univalent categories in type theory? We can make the 2-category, but
+the 1-category is useful to define e.g. higher categories in terms of enriched categories.
+
+Cat = univalent categories
+sCat = strict categories
+
+Rezk completion, R : sCat → Cat
+0-truncating objects, T : Cat → sCat
+
+Given C C' : Cat and D D' : sCat, F : C -> C', G : D -> D', we can define
+C → T C. We cannot define T C → C
+D → R D. Can we define R D → D?
+T F : T C → T C'
+R G : R D → R D'
+
+There is probably an adjunction (2-adjunction?) in here.

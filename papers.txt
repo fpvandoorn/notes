@@ -1,0 +1,10 @@
+Topics to write about:
+
+2-quotients
+LES of homotopy groups (succ_str's etc.)
+Eilenberg-MacLane spaces
+
+Minor results:
+(variants of) Whitehead Theorem
+Homotopy groups of spheres
+van Kampen
